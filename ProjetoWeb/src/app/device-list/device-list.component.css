@@ -1,0 +1,10 @@
+.form-field {
+    height: 250px!important;
+    line-height: 34px!important;
+    padding-left: 10px;
+    width: 90%!important;
+}
+
+.card {
+    margin: 20px;
+}
